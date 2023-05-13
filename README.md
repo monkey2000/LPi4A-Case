@@ -6,7 +6,7 @@ Verified with Sanweihou SLA service.
 
 ## Screenshots
 
-![](./Img/CAD.jpeg)
+<img src="./Img/CAD.jpeg" width="50%">
 
 ## License
 
